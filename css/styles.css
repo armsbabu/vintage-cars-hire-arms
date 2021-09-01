@@ -1,9 +1,12 @@
+body {
+}
 .cars-grid {
   border: 1px solid black;
   margin-top: 10px;
   /* margin-left: 5px; */
   /* margin-right: 5px; */
   height: 100%;
+  background-color: rgb(184, 200, 230);
 }
 .col {
   border: 1px solid grey;
@@ -12,6 +15,13 @@
   /* width: 100%; */
 }
 
+.pagetitle {
+  text-align: center;
+}
+
+.nav-item {
+  font-size: 25px;
+}
 /* footer css starts here */
 
 /* footer ends here */
