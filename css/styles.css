@@ -13,6 +13,7 @@ body {
   font-family: Helvetica, sans-serif;
   /* font-weight: bold; */
   /* width: 100%; */
+  background-color: rgb(184, 200, 230);
 }
 
 .pagetitle {
@@ -20,7 +21,12 @@ body {
 }
 
 .nav-item {
-  font-size: 25px;
+  font-size: 15px;
+  /* background-color:  */
+}
+
+.card {
+  border-top-left-radius: 20px;
 }
 /* footer css starts here */
 
