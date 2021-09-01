@@ -1,0 +1,17 @@
+.cars-grid {
+  border: 1px solid black;
+  margin-top: 10px;
+  /* margin-left: 5px; */
+  /* margin-right: 5px; */
+  height: 100%;
+}
+.col {
+  border: 1px solid grey;
+  font-family: Helvetica, sans-serif;
+  /* font-weight: bold; */
+  /* width: 100%; */
+}
+
+/* footer css starts here */
+
+/* footer ends here */
